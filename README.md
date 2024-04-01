@@ -6,7 +6,7 @@ An update to the Dual Contoring System created here: https://github.com/JamesPar
 This edition moves the code to Unreal engine, taking advantage of it's mesh creation and concurrency features.
 
 Additional updates include:
-- An ability to make sue of dynamic, static, or procedural mesh types.
+- An ability to make use of dynamic, static, or procedural mesh types.
 - Additional features to ensure smoothness and no tearing.
 - Automatic removal of small or skinny triangles to lower cost of rendering.
-- Increased size of world mesh making sue of unreal's improved performance.
+- Increased size of world mesh making use of unreal's improved performance.
